@@ -1,0 +1,3 @@
+[submodule "libs/selechecker"]
+	path = libs/selechecker
+	url = https://github.com/ameforce/selechecker.git

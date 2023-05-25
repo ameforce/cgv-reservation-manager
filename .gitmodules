@@ -1,3 +1,6 @@
 [submodule "libs/selechecker"]
 	path = libs/selechecker
 	url = https://github.com/ameforce/selechecker.git
+[submodule "libs/logmanager"]
+	path = libs/logmanager
+	url = https://github.com/ameforce/logmanager.git
